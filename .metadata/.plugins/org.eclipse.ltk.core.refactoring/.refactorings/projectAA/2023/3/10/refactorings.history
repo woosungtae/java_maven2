@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;projectAA/src/main/webapp/WEB-INF/views/tiles&apos; to &apos;common&apos;" description="Rename resource &apos;tiles&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/views/tiles" name="common" stamp="1678236669592" updateReferences="true"/>
+</session>
